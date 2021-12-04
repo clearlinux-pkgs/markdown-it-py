@@ -1,5 +1,5 @@
 PKG_NAME := markdown-it-py
-URL = https://files.pythonhosted.org/packages/38/43/305d2646390d8ddc447a34e750677247774ed95ac9ea2a5ff75489056c54/markdown-it-py-1.1.0.tar.gz
+URL = https://files.pythonhosted.org/packages/04/c8/141bf7ad89dc525590873da74a38f9e542803b0cdc48e1693de52ed96bb4/markdown-it-py-2.0.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common

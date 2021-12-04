@@ -1,12 +1,3 @@
-1.1.0
+2.0.0
 pypi(attrs)
-pypi(coverage)
-pypi(mdit_py_plugins)
-pypi(myst_nb)
-pypi(pre_commit)
-pypi(psutil)
-pypi(pyyaml)
-pypi(sphinx)
-pypi(sphinx_book_theme)
-pypi(sphinx_copybutton)
-pypi(typing_extensions)
+pypi(mdurl)
