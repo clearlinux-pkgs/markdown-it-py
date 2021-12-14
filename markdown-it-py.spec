@@ -4,7 +4,7 @@
 #
 Name     : markdown-it-py
 Version  : 2.0.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/04/c8/141bf7ad89dc525590873da74a38f9e542803b0cdc48e1693de52ed96bb4/markdown-it-py-2.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/04/c8/141bf7ad89dc525590873da74a38f9e542803b0cdc48e1693de52ed96bb4/markdown-it-py-2.0.0.tar.gz
 Summary  : Python port of markdown-it. Markdown parsing, done right!
